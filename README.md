@@ -10,3 +10,15 @@
 - aenderungen.txt hinzugefügt
 - README um Unterschied zwischen lokalem und remote Repository ergänzt
 
+# Git Tipps: Änderungen rückgängig machen
+
+Wenn man Änderungen gemacht hat, aber sie noch **nicht committed** sind, kann man:
+
+1. Einzelne Datei zurücksetzen:
+   git checkout -- <dateiname>
+
+2. Alle Änderungen verwerfen:
+   git restore .
+
+3. Änderungen, die schon zur hinzugefügt wurden, wieder entfernen:
+   git restore --staged <dateiname>
