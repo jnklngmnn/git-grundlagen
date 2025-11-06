@@ -6,7 +6,7 @@
 
 - ## Commit-Übersicht
 
-- 1a2b3c4 befehle.txt hinzugefügt mit drei Git-Befehlen
-- 5d6e7f8 aenderungen.txt hinzugefügt
-- 9a0b1c2 README um Unterschied zwischen lokalem und remote Repository ergänzt
+- befehle.txt hinzugefügt mit drei Git-Befehlen
+- aenderungen.txt hinzugefügt
+- README um Unterschied zwischen lokalem und remote Repository ergänzt
 
